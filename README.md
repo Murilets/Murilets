@@ -3,7 +3,7 @@
 Hi! I'am Murilo Bertelli from Brazil!
 
 
-I'm a Front-End Developer focused on building clean, responsive, and efficient web applications. I have experience working with modern technologies such as React.js, JavaScript, Node.js, Express, SQL and MongoDB(MERN Stack).
+I'm a Front-End Developer focused on building clean, responsive, and efficient web applications. I have experience working with modern technologies such as React.js, JavaScript, Node.js, Express, SQL.
 I transform ideas into functional code and continuously learning and improving my skills through real-world projects.
 
 ## 🛠️ Technologies & Tools
