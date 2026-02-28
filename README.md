@@ -7,7 +7,7 @@ Front-end developer focused on developing modern and intuitive interfaces, deliv
 - JavaScript/TypeScript
 - React.js
 - CSS/CSS libraries
-- APis integrations
+- APIs integrations
 - AWS Services Integrations
 - GraphQL
 - SupaBase
