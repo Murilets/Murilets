@@ -4,9 +4,9 @@ Front-end developer focused on developing modern and intuitive interfaces, deliv
 
 ## Technologies
 
-- JavaScript/TypeScript
+- TypeScript
 - React.js
-- CSS/CSS libraries
+- CSS libraries
 - APIs integrations
 - AWS Services Integrations
 - GraphQL
