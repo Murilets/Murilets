@@ -8,7 +8,7 @@ Front-end developer focused on developing modern and intuitive interfaces, deliv
 - React.js
 - CSS libraries
 - APIs integrations
-- AWS Services Integrations
+- AWS Cognito
 - GraphQL
 - SupaBase
 - Jest and Testing Library
