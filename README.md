@@ -1,19 +1,21 @@
 # Murilo Bertelli
 
-Front-end developer focused on developing modern and intuitive interfaces, delivering results for your application. Always handling tasks and meeting deadlines.
+Full-stack developer who delivers results, bringing your idea to life with technology. Always handling tasks and meeting deadlines.
 
 ## Technologies
 
 - TypeScript
 - React.js
-- CSS libraries
-- APIs integrations
-- AWS Cognito
-- GraphQL
-- SupaBase
-- Jest and Testing Library
+- React native
+- C#
+- Entity framework core
+- Clean architecture
+- SignalR/Websockets
+- APIs Integration
+- PostgreeSQL
+- Claude Code
   
-##  Contact
+##  My contact
 
 - [LinkedIn](https://www.linkedin.com/in/murilo-bertelli/)
 - [Gmail](mailto:murilobertelli18@gmail.com)
